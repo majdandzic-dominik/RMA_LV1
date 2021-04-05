@@ -1,0 +1,1 @@
+data class Card(val points: Int, val type: String)
